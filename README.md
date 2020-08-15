@@ -1,6 +1,6 @@
 ## G'day, I'm Bailey 👋
 
-<img src="/image.png?raw=true" width="200px">
+<img src="https://raw.githubusercontent.com/baely/baely/master/image.png" width="200px">
 
 > 🎓 Computing and Software Systems student at the University of Melbourne <br>
 > 👨‍💻 Currently working as a software engineer at National Australia Bank <br>
