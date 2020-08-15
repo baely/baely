@@ -7,7 +7,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-![Bailey](/image.jpeg?raw=true | width=200}
+![Bailey](/image.jpeg?raw=true | width=200)
 
 [<img height="40px" src="https://img.icons8.com/ios-filled/2x/linkedin.png">](https://linkedin.com/baileybutler1)
 [<img height="40px" src="https://img.icons8.com/ios-filled/2x/github.png">](https://github.com/baely)
