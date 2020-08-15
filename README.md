@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/baely/baely/master/image.png" width="200px">
 
-> 🎓 Computing and Software Systems student at the University of Melbourne <br>
+> 🎓 Data Science student at the University of Melbourne <br>
 > 👨‍💻 Currently working as a software engineer at National Australia Bank <br>
 > 🌱 Trying to extensively learn python and back-end development
 
