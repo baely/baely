@@ -2,7 +2,7 @@
 
 <img src="/image.png?raw=true" width="200px">
 
-> 🎓 Computing and Software systems tudent at the University of Melbourne <br>
+> 🎓 Computing and Software Systems student at the University of Melbourne <br>
 > 👨‍💻 Currently working as a software engineer at National Australia Bank <br>
 > 🌱 Trying to extensively learn python and back-end development
 
