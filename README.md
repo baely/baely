@@ -1,16 +1,20 @@
-### Hi there 👋
+## G'day, I'm Bailey 👋
 
-<!--
-**baely/baely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="/image.png?raw=true" width="200px">
 
-Here are some ideas to get you started:
+> 🎓 Computing and Software Systems student at the University of Melbourne <br>
+> 👨‍💻 Currently working as a software engineer at National Australia Bank <br>
+> 🌱 Trying to extensively learn python and back-end development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+[<img height="40px" src="https://img.icons8.com/ios-filled/2x/linkedin.png">](linkedin)
+[<img height="40px" src="https://img.icons8.com/ios-filled/2x/github.png">](github)
+[<img height="40px" src="https://img.icons8.com/ios-filled/2x/salesforce.png">](salesforce)
+[<img height="40px" src="https://img.icons8.com/ios-filled/2x/instagram.png">](instagram)
+
+[linkedin]: "https://linkedin.com/in/baileybutler1"
+[github]: "https://github.com/baely"
+[salesforce]: "https://trailblazer.me/id/baileybutler"
+[instagram]: "https://instagram.com/bae1y"
