@@ -7,16 +7,15 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-![Bailey](/image.jpeg?raw=true | width=200)
 
 <img style="" src="/image.jpeg?raw=true">
 
-[<img height="40px" src="https://img.icons8.com/ios-filled/2x/linkedin.png">](https://linkedin.com/baileybutler1)
-[<img height="40px" src="https://img.icons8.com/ios-filled/2x/github.png">](https://github.com/baely)
-[<img height="40px" src="https://img.icons8.com/ios-filled/2x/salesforce.png">](https://trailblazer.me/id/baileybutler)
-[<img height="40px" src="https://img.icons8.com/ios-filled/2x/instagram.png">](https://instagram.com/bae1y)
-![Instagram](<https://img.icons8.com/ios-filled/2x/instagram.png> =40x)
+[<img height="40px" src="https://img.icons8.com/ios-filled/2x/linkedin.png">](linkedin)
+[<img height="40px" src="https://img.icons8.com/ios-filled/2x/github.png">](github)
+[<img height="40px" src="https://img.icons8.com/ios-filled/2x/salesforce.png">](salesforce)
+[<img height="40px" src="https://img.icons8.com/ios-filled/2x/instagram.png">](instagram)
 
-[123](instagram)
-
+[linkedin]: "https://linkedin.com/in/baileybutler1"
+[github]: "https://github.com/baely"
+[salesforce]: "https://trailblazer.me/id/baileybutler"
 [instagram]: "https://instagram.com/bae1y"
