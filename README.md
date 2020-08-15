@@ -1,6 +1,6 @@
-## G'day, I'm Bailey
+## G'day, I'm Bailey 👋
 
-<img style="border:5px solid #222;border-radius:100%;box-shadow: 4px 4px 8px 2px rgba(0,0,0,0.2);width:200px;" src="/image.jpeg?raw=true">
+<img src="/image.png?raw=true" width="200px">
 
 > 🎓 Computing and Software systems tudent at the University of Melbourne <br>
 > 👨‍💻 Currently working as a software engineer at National Australia Bank <br>
