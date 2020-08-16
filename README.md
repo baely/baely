@@ -7,7 +7,7 @@
 > 🌱 Trying to extensively learn python and back-end development
 
 <!--START_SECTION:waka-->
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Timezone: Australia/Melbourne
