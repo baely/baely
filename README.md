@@ -7,6 +7,7 @@
 > 🌱 Trying to extensively learn python and back-end development
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 [<img height="40px" src="https://img.icons8.com/ios-filled/2x/linkedin.png">](linkedin)
