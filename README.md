@@ -4,7 +4,7 @@
 
 > 🎓 Data Science student at the University of Melbourne <br>
 > 👨‍💻 Currently working as a software engineer intern  at National Australia Bank <br>
-> 🌱 Trying to extensively learn python and back-end development
+> 🌱 Trying to learn python and back-end development
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spend My Time On** 
