@@ -7,10 +7,10 @@
 > 🌱 Trying to learn python and back-end development
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time zone: Australia/Melbourne
+⌚︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
 Python                   5 hrs 35 mins       █████████████░░░░░░░░░░░░   52.55% 
@@ -19,7 +19,7 @@ JavaScript               1 hr 55 mins        ████░░░░░░░�
 HTML                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.12% 
 Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.73%
 
-🔥 Code Editors: 
+🔥 Editors: 
 PyCharm                  8 hrs 29 mins       ████████████████████░░░░░   79.72% 
 Chrome                   1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.24% 
 VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.03%
