@@ -4,6 +4,7 @@
 
 > 🎓 Data Science student at the University of Melbourne <br>
 > 👨‍💻 Currently working as a software engineer intern  at National Australia Bank <br>
+> ☕️ Software engineer with Swap Cup, an eco-friendly initiative <br>
 > 🌱 Trying to learn python and back-end development
 
 <!--START_SECTION:waka-->
