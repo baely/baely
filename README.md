@@ -1,7 +1,5 @@
 ## G'day, I'm Bailey 👋
 
-<img src="https://raw.githubusercontent.com/baely/baely/master/image.png" width="200px">
-
 > 🎓 Compsci student at the University of Melbourne <br>
 > 👨‍💻 Currently working as a software engineer intern at National Australia Bank <br>
 > ☕️ Software engineer with Swap Cup, an eco-friendly initiative <br>
