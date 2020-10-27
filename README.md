@@ -2,10 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/baely/baely/master/image.png" width="200px">
 
-> 🎓 Data Science student at the University of Melbourne <br>
-> 👨‍💻 Currently working as a software engineer intern  at National Australia Bank <br>
+> 🎓 Compsci student at the University of Melbourne <br>
+> 👨‍💻 Currently working as a software engineer intern at National Australia Bank <br>
 > ☕️ Software engineer with Swap Cup, an eco-friendly initiative <br>
-> 🌱 Trying to learn python and back-end development
+> 🌱 Trying to learn python and react in full-stack development projects
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
