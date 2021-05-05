@@ -1,9 +1,9 @@
 ## G'day, I'm Bailey 👋
 
-> 🎓 Compsci student at the University of Melbourne <br>
-> 👨‍💻 Currently working as a software engineer at National Australia Bank <br>
-> ☕️ Software engineer with Swap Cup, an eco-friendly initiative <br>
-> 🌱 Trying to learn python and react in full-stack development projects
+> 🎓 Compsci student at The University of Melbourne <br>
+> 👨‍💻 Currently working as a Software Engineer at Loan Market Group <br>
+> ☕️ Software engineer with Swap Cup, an eco-friendly student-led initiative <br>
+> 🌱 Building on my understanding and application of Python
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
