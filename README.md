@@ -36,7 +36,7 @@ Windows                  5 hrs 1 min         ███████████�
 ```
 
 
- Last Updated on 01/07/2021
+ Last Updated on 02/07/2021
 <!--END_SECTION:waka-->
 
 [<img height="40px" src="https://img.icons8.com/ios-filled/2x/linkedin.png">](https://linkedin.com/in/baileybutler1)
