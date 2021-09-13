@@ -12,16 +12,16 @@
 ⌚︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Other                    22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Browser                  22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ZendeskExtract           22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
