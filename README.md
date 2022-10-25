@@ -1,6 +1,5 @@
 ## G'day, I'm Bailey 👋
 
-> 🎓 Compsci student at The University of Melbourne <br>
 > 👨‍💻 Currently working as a Software Engineer at ANZ<br>
 > 🌱 Building on my understanding and application of Python and Go
 
