@@ -1,7 +1,4 @@
-## G'day, I'm Bailey 👋
-
-> 👨‍💻 Currently working as a Software Engineer at ANZ<br>
-> 🌱 Building on my understanding and application of Python and Go
+[baileybutler.com.au](https://baileybutler.com.au)
 
 [<img height="40px" src="https://img.icons8.com/ios-filled/2x/linkedin.png">](https://linkedin.com/in/baileybutler1)
 [<img height="40px" src="https://img.icons8.com/ios-filled/2x/github.png">](https://github.com/baely)
