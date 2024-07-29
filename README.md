@@ -1,7 +1,7 @@
 Bailey Butler
 
 swe @ [anzx](https://github.com/anzx) |
-cs @ unimelb
+~~cs @ unimelb~~
 
 melbourne, aus
 
