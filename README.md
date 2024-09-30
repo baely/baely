@@ -15,4 +15,5 @@ current projects:
 - some event driven projects powered by my financial transactions:
   - [balance](https://github.com/baely/balance)
   - [ibbitot](https://github.com/baely/officer)
+- trying to build some self-hosted infra. mostly defined in my [infra repo](https://github.com/baely/infra). there's some other stuff created outside those definitions but they're mostly network related
 - i also do the annual advent of code and [publish my solutions](https://github.com/baely/advent-of-code)
