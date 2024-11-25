@@ -23,5 +23,5 @@ melbourne, aus
 ## previous projects
 
 - [devhou.se jp blog](https://github.com/devhou-se/www-jp) - blogging platform built on github issues /w auto-translation for publishing posts into japanese. (view the blog here: [https://devhou.se](https://devhou.se))
-- [sreetcode / sreeifier](https://github.com/devhou-se/sreetcode) - service for proxying web pages and doing basic text find and replaces. service is no longer operational due to operational costs
+- [sreetcode / sreeifier](https://github.com/devhou-se/sreetcode) - service for proxying web pages and doing basic text find and replaces. service is no longer active due to operational costs
 - [msfs](https://github.com/baely/go-msfs) - a set of services for live tracking my sim flights in microsoft flight simulator. (live track my flights here: [https://projects.xbd.au/pilot](https://projects.xbd.au/pilot))
