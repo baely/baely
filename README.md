@@ -21,18 +21,26 @@ reports for assessing compliance.
 
 Tech: Go, vanilla JS, Postgres (hosted solution)/SQLite (standalone instance), Google Cloud Run.
 
-### 💸 Financial Transactions 
+### 💸 Txn - Financial Transaction Tracker
 
-A collection of event-driven projects powered by my money:
-  - [Balance](https://github.com/baely/balance) - Consumes financial transactions from Up.
-  - [ibbitot](https://github.com/baely/ibbitot) ([https://IsBaileyButlerInTheOffice.Today](https://isbaileybutlerintheoffice.today)) - Reports my office presence using financial transaction data.
-  - [Coffee Tracker](https://github.com/baely/coffeetracker) ([https://baileyneeds.coffee](https://baileyneeds.coffee)) - Infers my coffee consumption from transactions and other data.
+__[Repo](https://github.com/baely/txn)__
+
+A unified event-driven application that monitors my banking activity through the Up Banking API to provide useful insights and automated notifications:
+
+- **[IsBaileyButlerInTheOffice.Today?](https://isbaileybutlerintheoffice.today)** - Automatically detects coffee purchases to determine my presence in the office.
+
+- **[Bailey Needs Coffee](https://baileyneeds.coffee)** - Tracks my caffeine consumption patterns over time, providing insights into my coffee spending habits and consumption frequency with visual analytics.
+
+- **[Events API](https://events.baileys.dev)** - Serves as the central hub for processing webhook events from Up Banking and distributing transaction data to the other services.
+
+The system instantly updates my office presence status when I buy coffee nearby and sends notifications to Slack, streamlining team coordination without manual input.
 
 Tech:
-- All Go backends
-- Vanilla JS for projects with a frontend
-- Postgres for storing events: transactions and caffeine events
-- All self-hosted on Kubernetes. Balance is also deployed to Google Cloud Run.
+- Go backend with domain-based routing
+- Structured logging and standardized error handling
+- PostgreSQL for data persistence
+- Dockerised deployment
+- Slack integration for real-time notifications
 
 ### ⚙️ Infrastructure
 
