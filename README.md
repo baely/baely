@@ -67,8 +67,9 @@ __[Repo](https://github.com/baely/advent-of-code)__
 My Python solutions to the annual Advent of Code challenges.
 
 ## DevHouse Projects
+*✨ = vibe-coded projects*
 
-### 📚 Study (Japanese Kana Flashcards) [✨ vibe-coded]
+### 📚 Study ✨ (Japanese Kana Flashcards)
 
 __[Repo](https://github.com/devhou-se/study) | [Live App](https://study.devhou.se)__
 
@@ -76,7 +77,7 @@ Interactive Japanese language learning app with flashcards for practicing Hiraga
 
 Tech: JavaScript, HTML/CSS, Firebase Hosting
 
-### 📅 Calendar [✨ vibe-coded]
+### 📅 Calendar ✨
 
 __[Repo](https://github.com/devhou-se/calendar) | [Live App](https://calendar.devhou.se)__
 
