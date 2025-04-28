@@ -67,7 +67,6 @@ __[Repo](https://github.com/baely/advent-of-code)__
 My Python solutions to the annual Advent of Code challenges.
 
 ## DevHouse Projects
-*✨ = vibe-coded projects*
 
 ### 📚 Study ✨ (Japanese Kana Flashcards)
 
@@ -100,6 +99,9 @@ __[Repo](https://github.com/devhou-se/www-jp) | [Live Blog](https://devhou.se)__
 Blogging platform built on GitHub issues with auto-translation for publishing posts in Japanese.
 
 Tech: Hugo, Go, Python, Firebase
+
+---
+✨ *Vibe-coded: Weekend projects built in a flow state of pure creativity*
 
 ## Previous Projects
 
