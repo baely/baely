@@ -68,19 +68,19 @@ My Python solutions to the annual Advent of Code challenges.
 
 ## DevHouse Projects
 
-### 📚 Study (Japanese Kana Flashcards) ✨
+### 📚 Study (Japanese Kana Flashcards) [✨ vibe-coded]
 
 __[Repo](https://github.com/devhou-se/study) | [Live App](https://study.devhou.se)__
 
-Interactive Japanese language learning app with flashcards for practicing Hiragana, Katakana, and Kanji characters. Features adaptive difficulty, spaced repetition system, and progress tracking. Vibe-coded in a weekend.
+Interactive Japanese language learning app with flashcards for practicing Hiragana, Katakana, and Kanji characters. Features adaptive difficulty, spaced repetition system, and progress tracking.
 
 Tech: JavaScript, HTML/CSS, Firebase Hosting
 
-### 📅 Calendar ✨
+### 📅 Calendar [✨ vibe-coded]
 
 __[Repo](https://github.com/devhou-se/calendar) | [Live App](https://calendar.devhou.se)__
 
-Interactive travel planning calendar with drag-and-drop functionality for creating and managing travel itineraries. Export your travel schedule to ICS format. Vibe-coded in a weekend.
+Interactive travel planning calendar with drag-and-drop functionality for creating and managing travel itineraries. Export your travel schedule to ICS format.
 
 Tech: React, JavaScript, GitHub Pages
 
