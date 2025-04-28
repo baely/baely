@@ -70,11 +70,11 @@ My Python solutions to the annual Advent of Code challenges.
 
 ### 📚 Study
 
-__[Repo](https://github.com/devhou-se/study)__ (Private repository)
+__[Repo](https://github.com/devhou-se/study)__
 
-A collaborative study tool for organizing and tracking learning resources.
+A personal development platform for organizing study sessions, tracking learning progress, and managing educational resources.
 
-Tech: Private project
+Tech: Likely JavaScript/TypeScript, React
 
 ### 📅 Calendar
 
