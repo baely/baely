@@ -66,8 +66,41 @@ __[Repo](https://github.com/baely/advent-of-code)__
 
 My Python solutions to the annual Advent of Code challenges.
 
+## DevHouse Projects
+
+### 📚 Study
+
+__[Repo](https://github.com/devhou-se/study)__
+
+A collaborative study tool for organizing and tracking learning resources.
+
+Tech: TBD
+
+### 📅 Calendar
+
+__[Repo](https://github.com/devhou-se/calendar) | [Live App](https://calendar.devhou.se)__
+
+Interactive travel planning calendar with drag-and-drop functionality for creating and managing travel itineraries. Export your travel schedule to ICS format.
+
+Tech: React, JavaScript, GitHub Pages
+
+### 🎮 Game
+
+__[Repo](https://github.com/devhou-se/game)__
+
+Game development project built with the Godot game engine.
+
+Tech: Godot, C#, GDScript
+
+### 📝 Blog
+
+__[Repo](https://github.com/devhou-se/www-jp) | [Live Blog](https://devhou.se)__
+
+Blogging platform built on GitHub issues with auto-translation for publishing posts in Japanese.
+
+Tech: Hugo, Go, Python, Firebase
+
 ## Previous Projects
 
-- [devhou.se jp blog](https://github.com/devhou-se/www-jp) - blogging platform built on github issues /w auto-translation for publishing posts into japanese. (view the blog here: [https://devhou.se](https://devhou.se))
 - [sreetcode / sreeifier](https://github.com/devhou-se/sreetcode) - service for proxying web pages and doing basic text find and replaces. service is no longer active due to operational costs
 - [msfs](https://github.com/baely/go-msfs) - a set of services for live tracking my sim flights in microsoft flight simulator. (live track my flights here: [https://projects.xbd.au/pilot](https://projects.xbd.au/pilot))
