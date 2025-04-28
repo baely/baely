@@ -101,7 +101,7 @@ Blogging platform built on GitHub issues with auto-translation for publishing po
 Tech: Hugo, Go, Python, Firebase
 
 ---
-✨ *Vibe-coded: Rapidly developed proof-of-concept projects*
+✨ *Vibe-coded projects*
 
 ## Previous Projects
 
