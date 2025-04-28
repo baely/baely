@@ -68,13 +68,13 @@ My Python solutions to the annual Advent of Code challenges.
 
 ## DevHouse Projects
 
-### 📚 Study
+### 📚 Study (Japanese Kana Flashcards)
 
 __[Repo](https://github.com/devhou-se/study)__
 
-A personal development platform for organizing study sessions, tracking learning progress, and managing educational resources.
+Interactive Japanese language learning app with flashcards for practicing Hiragana, Katakana, and Kanji characters. Features adaptive difficulty, spaced repetition system, and progress tracking.
 
-Tech: Likely JavaScript/TypeScript, React
+Tech: JavaScript, HTML/CSS, Firebase Hosting
 
 ### 📅 Calendar
 
