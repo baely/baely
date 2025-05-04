@@ -8,18 +8,19 @@ Software Engineer @ ANZx | Melbourne, Australia
 
 ### 🏢 [Office Tracker](https://github.com/baely/officetracker) | [Live](https://iwasintheoffice.com)
 Calendar-based RTO tracking with stats & compliance reports.  
-`Go` `JavaScript` `PostgreSQL`
+`Go` `PostgreSQL` `Redis` `Google Clound Run`
 
 ### 💸 [Txn](https://github.com/baely/txn) - Banking API Integration
 Event-driven system monitoring my banking activities via Up Banking API:
 - [IsBaileyButlerInTheOffice.Today?](https://isbaileybutlerintheoffice.today) - Tracks office presence via coffee purchases
 - [Bailey Needs Coffee](https://baileyneeds.coffee) - Coffee consumption analytics
 - [Events API](https://events.baileys.dev) - Webhook processing hub  
-`Go` `PostgreSQL` `Docker`
+
+`Go` `PostgreSQL` `EDA`
 
 ### ⚙️ [Infrastructure](https://github.com/baely/infra)
 Self-hosted infrastructure as code with Kubernetes manifests.  
-`Kubernetes` `IaaC`
+`Kubernetes` `IaaC` `Docker`
 
 ### 📝 [Blog](https://github.com/baely/blog) | [Live](https://blog.baileys.dev)
 Tech-focused blog built with Hugo.  
@@ -39,15 +40,15 @@ Blogging platform with GitHub issues integration and auto-translation for Japane
 Game development with Godot engine.  
 `Godot` `C#` `GDScript`
 
-### 📚 [Study](https://github.com/devhou-se/study) [^✨] | [Live](https://study.devhou.se)
+### 📚 [Study](https://github.com/devhou-se/study)<sup>✨</sup> | [Live](https://study.devhou.se)
 Japanese Kana Flashcards with adaptive difficulty and spaced repetition.  
 `JavaScript` `HTML/CSS` `Firebase`
 
-### 📅 [Calendar](https://github.com/devhou-se/calendar) [^✨] | [Live](https://calendar.devhou.se)
+### 📅 [Calendar](https://github.com/devhou-se/calendar)<sup>✨</sup> | [Live](https://calendar.devhou.se)
 Interactive travel planning with drag-and-drop event management.
 `React` `JavaScript` `GitHub Pages`
 
-[^✨]: AI assisted projects
+<sup>✨</sup>: AI assisted projects
 
 ## Previous Projects
 
