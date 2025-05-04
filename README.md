@@ -1,8 +1,13 @@
 # Bailey Butler
 
-Software Engineer @ ANZx | Melbourne, Australia
+Software Engineer @ ANZx
 
-[LinkedIn](https://linkedin.com/in/baileybutler1) | [Blog](https://blog.baileys.dev)
+Melbourne, Australia
+
+[linkedin.com/in/baileybutler1](https://linkedin.com/in/baileybutler1) |
+[blog.baileys.dev](https://blog.baileys.dev)
+
+---
 
 ## Personal Projects
 
