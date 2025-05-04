@@ -2,12 +2,11 @@
 
 Software Engineer @ ANZx | Melbourne, Australia
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/baileybutler1)
-[![Blog](https://img.shields.io/badge/Blog-Read-orange)](https://blog.baileys.dev)
+[LinkedIn](https://linkedin.com/in/baileybutler1) | [Blog](https://blog.baileys.dev)
 
 ## Personal Projects
 
-### 🏢 [Office Tracker](https://github.com/baely/officetracker) [![Live](https://img.shields.io/badge/Live-Service-success)](https://iwasintheoffice.com)
+### 🏢 [Office Tracker](https://github.com/baely/officetracker) | [Live](https://iwasintheoffice.com)
 Calendar-based RTO tracking with stats & compliance reports.  
 `Go` `JavaScript` `PostgreSQL`
 
@@ -22,7 +21,7 @@ Event-driven system monitoring my banking activities via Up Banking API:
 Self-hosted infrastructure as code with Kubernetes manifests.  
 `Kubernetes` `IaaC`
 
-### 📝 [Blog](https://github.com/baely/blog) [![Live](https://img.shields.io/badge/Live-Blog-success)](https://blog.baileys.dev)
+### 📝 [Blog](https://github.com/baely/blog) | [Live](https://blog.baileys.dev)
 Tech-focused blog built with Hugo.  
 `Hugo` `Go`
 
@@ -32,19 +31,19 @@ Python solutions to annual Advent of Code challenges.
 
 ## devhou.se Projects
 
-### 📝 [Blog](https://github.com/devhou-se/www-jp) [![Live](https://img.shields.io/badge/Live-Blog-success)](https://devhou.se)
+### 📝 [Blog](https://github.com/devhou-se/www-jp) | [Live](https://devhou.se)
 Blogging platform with GitHub issues integration and auto-translation for Japanese.  
 `Hugo` `Go` `Python` `Firebase`
 
-### 🎮 [Game](https://github.com/devhou-se/game) [![Play](https://img.shields.io/badge/Play-Game-success)](https://devhou.se)
+### 🎮 [Game](https://github.com/devhou-se/game) | [Play](https://devhou.se)
 Game development with Godot engine.  
 `Godot` `C#` `GDScript`
 
-### 📚 [Study](https://github.com/devhou-se/study) [^✨] [![Live](https://img.shields.io/badge/Live-App-success)](https://study.devhou.se)
+### 📚 [Study](https://github.com/devhou-se/study) [^✨] | [Live](https://study.devhou.se)
 Japanese Kana Flashcards with adaptive difficulty and spaced repetition.  
 `JavaScript` `HTML/CSS` `Firebase`
 
-### 📅 [Calendar](https://github.com/devhou-se/calendar) [^✨] [![Live](https://img.shields.io/badge/Live-App-success)](https://calendar.devhou.se)
+### 📅 [Calendar](https://github.com/devhou-se/calendar) [^✨] | [Live](https://calendar.devhou.se)
 Interactive travel planning with drag-and-drop event management.
 `React` `JavaScript` `GitHub Pages`
 
