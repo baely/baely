@@ -4,8 +4,7 @@ Software Engineer @ ANZx
 
 Melbourne, Australia
 
-[linkedin.com/in/baileybutler1](https://linkedin.com/in/baileybutler1) |
-[blog.baileys.dev](https://blog.baileys.dev)
+[linkedin.com/in/baileybutler1](https://linkedin.com/in/baileybutler1)
 
 ---
 
@@ -26,10 +25,6 @@ Event-driven system monitoring my banking activities via Up Banking API:
 ### ⚙️ [Infrastructure](https://github.com/baely/infra)
 Self-hosted infrastructure as code with Kubernetes manifests.  
 `Kubernetes` `IaaC` `Docker`
-
-### 📝 [Blog](https://github.com/baely/blog) | [Live](https://blog.baileys.dev)
-Tech-focused blog built with Hugo.  
-`Hugo` `Go`
 
 ### 🧩 [Advent of Code](https://github.com/baely/advent-of-code)
 Python solutions to annual Advent of Code challenges.  
