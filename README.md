@@ -1,6 +1,6 @@
 # Bailey Butler
 
-Software Engineer @ ANZx
+Software Engineer @ Atlassian
 
 Melbourne, Australia
 
@@ -27,8 +27,8 @@ Self-hosted infrastructure as code with Kubernetes manifests.
 `Kubernetes` `IaaC` `Docker`
 
 ### 🧩 [Advent of Code](https://github.com/baely/advent-of-code)
-Python solutions to annual Advent of Code challenges.  
-`Python`
+Python and Java solutions to annual Advent of Code challenges.  
+`Python` `Java`
 
 ## devhou.se Projects
 
