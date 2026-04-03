@@ -1,9 +1,5 @@
 # Bailey Butler
 
-Software Engineer @ Atlassian
-
-Melbourne, Australia
-
 [linkedin.com/in/baileybutler1](https://linkedin.com/in/baileybutler1)
 
 ---
