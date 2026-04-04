@@ -1,4 +1,4 @@
-# Bailey Butler
+# Bailey
 
 [linkedin.com/in/baileybutler1](https://linkedin.com/in/baileybutler1)
 
