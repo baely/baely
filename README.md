@@ -3,7 +3,7 @@
   <img src="assets/banner-light.png" alt="about me" width="832">
 </picture>
 
-[LinkedIn](https://linkedin.com/in/baileybutler1) · [Instagram](https://instagram.com/bae1y) · [Letterboxd](https://letterboxd.com/baely) · [Blog](https://blog.baileys.dev)
+[LinkedIn](https://linkedin.com/in/baileybutler1) | [Instagram](https://instagram.com/bae1y) | [Letterboxd](https://letterboxd.com/baely) | [Blog](https://blog.baileys.dev)
 
 ---
 
