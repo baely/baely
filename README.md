@@ -1,26 +1,30 @@
-# Bailey
-
-[linkedin.com/in/baileybutler1](https://linkedin.com/in/baileybutler1)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img src="assets/banner-light.png" alt="about me" width="832">
+</picture>
 
 ---
 
 ## Personal Projects
 
-### 🏢 [Office Tracker](https://github.com/baely/officetracker) | [Live](https://iwasintheoffice.com)
+### 🏢 [Office Tracker](https://github.com/baely/officetracker) | [Live](https://officetracker.com.au)
 Calendar-based RTO tracking with stats & compliance reports.  
-`Go` `PostgreSQL` `Redis` `Google Clound Run`
+`Go` `PostgreSQL` `Redis` `Google Cloud Run`
 
 ### 💸 [Txn](https://github.com/baely/txn) - Banking API Integration
 Event-driven system monitoring my banking activities via Up Banking API:
-- [IsBaileyButlerInTheOffice.Today?](https://isbaileybutlerintheoffice.today) - Tracks office presence via coffee purchases
+- [ibbitot](https://isbaileybutlerintheoffice.today) - Tracks office presence via coffee purchases
 - [Bailey Needs Coffee](https://baileyneeds.coffee) - Coffee consumption analytics
-- [Events API](https://events.baileys.dev) - Webhook processing hub  
 
 `Go` `PostgreSQL` `EDA`
 
+### 🤖 [Slop](https://github.com/baely/slop)<sup>✨</sup>
+A collection of vibe-coded apps, each a self-contained application written entirely by an AI coding agent under a shared house style.  
+`HTML` `JavaScript` `AI`
+
 ### ⚙️ [Infrastructure](https://github.com/baely/infra)
 Self-hosted infrastructure as code with Kubernetes manifests.  
-`Kubernetes` `IaaC` `Docker`
+`Kubernetes` `IaC` `Docker`
 
 ### 🧩 [Advent of Code](https://github.com/baely/advent-of-code)
 Python and Java solutions to annual Advent of Code challenges.  
@@ -32,16 +36,16 @@ Python and Java solutions to annual Advent of Code challenges.
 Blogging platform with GitHub issues integration and auto-translation for Japanese.  
 `Hugo` `Go` `Python` `Firebase`
 
-### 🎮 [Game](https://github.com/devhou-se/game) | [Play](https://devhou.se)
+### 🎮 [Game](https://github.com/devhou-se/game)
 Game development with Godot engine.  
 `Godot` `C#` `GDScript`
 
-### 📚 [Study](https://github.com/devhou-se/study)<sup>✨</sup> | [Live](https://study.devhou.se)
+### 📚 [Study](https://study.devhou.se)<sup>✨</sup>
 Japanese Kana Flashcards with adaptive difficulty and spaced repetition.  
 `JavaScript` `HTML/CSS` `Firebase`
 
 ### 📅 [Calendar](https://github.com/devhou-se/calendar)<sup>✨</sup> | [Live](https://calendar.devhou.se)
-Interactive travel planning with drag-and-drop event management.
+Interactive travel planning with drag-and-drop event management.  
 `React` `JavaScript` `GitHub Pages`
 
 <sup>✨</sup>: AI assisted projects
@@ -49,4 +53,3 @@ Interactive travel planning with drag-and-drop event management.
 ## Previous Projects
 
 - [sreetcode / sreeifier](https://github.com/devhou-se/sreetcode) - Web proxy service with text replacement (inactive)
-- [msfs](https://github.com/baely/go-msfs) - Flight simulator tracking services. [Live tracking](https://projects.xbd.au/pilot)
