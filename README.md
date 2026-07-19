@@ -13,14 +13,10 @@ Calendar-based RTO tracking with stats & compliance reports.
 
 ### 💸 [Txn](https://github.com/baely/txn) - Banking API Integration
 Event-driven system monitoring my banking activities via Up Banking API:
-- [ibbitot](https://isbaileybutlerintheoffice.today) - Tracks office presence via coffee purchases
+- [IsBaileyButlerInTheOffice.Today?](https://isbaileybutlerintheoffice.today) - Tracks office presence via coffee purchases
 - [Bailey Needs Coffee](https://baileyneeds.coffee) - Coffee consumption analytics
 
 `Go` `PostgreSQL` `EDA`
-
-### 🤖 [Slop](https://github.com/baely/slop)<sup>✨</sup>
-A collection of vibe-coded apps, each a self-contained application written entirely by an AI coding agent under a shared house style.  
-`HTML` `JavaScript` `AI`
 
 ### ⚙️ [Infrastructure](https://github.com/baely/infra)
 Self-hosted infrastructure as code with Kubernetes manifests.  
