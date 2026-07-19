@@ -3,6 +3,8 @@
   <img src="assets/banner-light.png" alt="about me" width="832">
 </picture>
 
+[LinkedIn](https://linkedin.com/in/baileybutler1) · [Instagram](https://instagram.com/bae1y) · [Letterboxd](https://letterboxd.com/baely) · [Blog](https://blog.baileys.dev)
+
 ---
 
 <picture>
@@ -20,10 +22,6 @@ Event-driven system monitoring my banking activities via the Up Banking API:
 - [Bailey Needs Coffee](https://baileyneeds.coffee) - Coffee consumption analytics
 
 `Go` `PostgreSQL` `EDA`
-
-### 📝 [Blog](https://github.com/baely/blog) | [Live](https://blog.baileys.dev)
-Tech-focused blog built with Hugo.  
-`Hugo` `Go`
 
 ### ⚙️ [Infrastructure](https://github.com/baely/infra)
 Self-hosted infrastructure as code.  
