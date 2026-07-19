@@ -5,7 +5,10 @@
 
 ---
 
-## Personal Projects
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-personal-dark.png">
+  <img src="assets/header-personal-light.png" alt="Personal Projects" width="832">
+</picture>
 
 ### 🏢 [Officetracker](https://github.com/baely/officetracker) | [Live](https://officetracker.com.au)
 Calendar-based RTO tracking with stats & compliance reports.  
@@ -30,7 +33,10 @@ Self-hosted infrastructure as code.
 Python and Java solutions to annual Advent of Code challenges.  
 `Python` `Java`
 
-## devhou.se Projects
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-devhouse-dark.png">
+  <img src="assets/header-devhouse-light.png" alt="devhou.se Projects" width="832">
+</picture>
 
 ### 📝 [Blog](https://github.com/devhou-se/www-jp) | [Live](https://devhou.se)
 Blogging platform with GitHub issues integration and auto-translation for Japanese.  
