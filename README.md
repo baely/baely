@@ -3,8 +3,6 @@
   <img src="assets/banner-light.png" alt="about me" width="832">
 </picture>
 
-[blog.baileys.dev](https://blog.baileys.dev)
-
 ---
 
 ## Personal Projects
@@ -13,12 +11,16 @@
 Calendar-based RTO tracking with stats & compliance reports.  
 `Go` `PostgreSQL` `Redis` `Auth0` `Google Cloud Run`
 
-### 💸 [Txn](https://github.com/baely/txn) - Banking API Integration
-Event-driven system monitoring my banking activities via Up Banking API:
+### 💸 [Txn](https://github.com/baely/txn)
+Event-driven system monitoring my banking activities via the Up Banking API:
 - [IsBaileyButlerInTheOffice.Today?](https://isbaileybutlerintheoffice.today) - Tracks office presence via coffee purchases
 - [Bailey Needs Coffee](https://baileyneeds.coffee) - Coffee consumption analytics
 
 `Go` `PostgreSQL` `EDA`
+
+### 📝 [Blog](https://github.com/baely/blog) | [Live](https://blog.baileys.dev)
+Tech-focused blog built with Hugo.  
+`Hugo` `Go`
 
 ### ⚙️ [Infrastructure](https://github.com/baely/infra)
 Self-hosted infrastructure as code.  
