@@ -1,0 +1,15 @@
+{
+  "output_dir": "assets",
+  "display_width": 832,
+  "banner": {
+    "heading": "Your Name",
+    "lines": ["Role @ Employer", "City, Country"],
+    "height": 272,
+    "heading_size": 104,
+    "line_size": 28
+  },
+  "headers": [
+    { "slug": "personal", "text": "Personal Projects" },
+    { "slug": "devhouse", "text": "devhou.se Projects" }
+  ]
+}
